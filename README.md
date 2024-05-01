@@ -1,15 +1,8 @@
 # ShareMeal - Food Donation App
 
-![App Screenshot](https://drive.google.com/uc?export=download&id=1C4zgaU9Z1zY4BcatpiUqE-fokK-qKpkL)
+
 
 Feed-n-Joy is a food donation app built with Flutter for the frontend and PHP for the backend. It aims to connect food donors with organizations that distribute food to those in need. This app makes the food donation process easy, efficient and accessible for everyone.
-
-## Demo 
-https://youtu.be/r0pPl4gtBv8
-
-## Download App
-
-[Download for android ](https://www.github.com/digambar2002)
 
 
 ## Objective
@@ -33,42 +26,13 @@ Overall, the food donation app is an innovative solution to the problem of food 
 - Flutter
 - PHP
 
-## Installation
-
-To install the app, please follow these steps:
-
-1. Clone the repository.
-2. Install dependencies using `flutter packages get`.
-3. Run the app using `flutter run`.
-
 ## Usage
-
 To use the app:
 
 1. Sign up as a donor or NGO.
 2. As a donor, post surplus food you want to donate.
 3. As an NGO, search for food donations in your area and arrange for collection.
 4. Enjoy the feeling of knowing you've helped reduce food waste and alleviate hunger!
-
-## Contributing
-
-If you wish to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Make your changes and commit them.
-3. Submit a pull request.
-
-## Credits
-
-[@Digambar Chaudhari](https://www.github.com/digambar2002)
-
-[@Renuka Nathjogi](https://www.github.com/RenukaNathjogi) 
-
-[@Bhavesh Patil](https://www.github.com/bhaveshp2601) 
-
-[@Deepak Dusane](https://www.github.com/6785-dip)
-
-[@Jayesh Patil](https://www.github.com/jeh2002) 
 
 ## Conclution
 In conclusion, waste food management apps are a useful tool to combat food waste and hunger. These apps provide an efficient and accessible way for donors to donate surplus food, and for organizations to collect and distribute the food to those in need.

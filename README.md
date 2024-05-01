@@ -1,4 +1,4 @@
-# Feed-n-Joy - Food Donation App
+# ShareMeal - Food Donation App
 
 ![App Screenshot](https://drive.google.com/uc?export=download&id=1C4zgaU9Z1zY4BcatpiUqE-fokK-qKpkL)
 

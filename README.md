@@ -1,8 +1,8 @@
-# ShareMeal - Food Donation App
+# ShareMeal - Food Distribution App
 
 
 
-Feed-n-Joy is a food donation app built with Flutter for the frontend and PHP for the backend. It aims to connect food donors with organizations that distribute food to those in need. This app makes the food donation process easy, efficient and accessible for everyone.
+ShareMeal is a food distribution app built with Flutter for the frontend and PHP for the backend. It aims to connect food donors with organizations that distribute food to those in need. This app makes the food donation process easy, efficient and accessible for everyone.
 
 
 ## Objective
